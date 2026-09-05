@@ -28,7 +28,7 @@ A beginner-level full stack e-commerce website developed as part of my CodeAlpha
 - MySQL
 
 ## Project Structure
-```text
+
 PROJECT-1
 ├── BACKEND
 │   ├── server.js
